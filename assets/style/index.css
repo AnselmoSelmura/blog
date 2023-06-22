@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Kablammo&family=Poppins&display=swap');
+*{margin: 0;padding: 0;box-sizing: border-box;}
+p{font-family: 'Poppins';}
+h1{font-family: 'Kablommo';}
+ul{list-style: none;}
+a{text-decoration: none;}
+body{
+    width: 100%;
+    height: 100vh;
+}
+header{
+    width: 100%;
+    display: flex;
+    align-items: center;
+}nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}nav .logotipo{
+    width: 50px;
+    height: 50px;
+}nav .logotipo img{
+    width: 100%;
+    height: 100%;
+}
