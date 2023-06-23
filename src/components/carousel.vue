@@ -6,16 +6,16 @@
             <input type="radio" name="btn-radio" id="radio3">
     
             <div class="slide-box primeiro">
-                <img class="img-desctop" src="slid/slids (1).png" alt="">
-                <img class="img-mobale" src="slid/slide-mobale.png" alt="">
+                <img class="img-desctop" src="../assets/slid/slids (1).png" alt="">
+                <img class="img-mobale" src="../assets/slid/slid/slide-mobale.png" alt="">
             </div>
             <div class="slide-box">
-                <img class="img-desctop" src="slid/slids (2).png" alt="">
-                <img class="img-mobale" src="slid/slide-mobale1.png" alt="">
+                <img class="img-desctop" src="../assets/slid/slids (2).png" alt="">
+                <img class="img-mobale" src="../assets/slid/slid/slide-mobale1.png" alt="">
             </div>
             <div class="slide-box">            
-                <img class="img-desctop" src="slid/slids (1).png" alt="">
-                <img class="img-mobale" src="slid/slide-mobale.png" alt="">
+                <img class="img-desctop" src="../assets/slid/slids (1).png" alt="">
+                <img class="img-mobale" src="../assets/slid/slid/slide-mobale.png" alt="">
             </div>
             <!--Navegação-->
             <div class="nav-auto">
